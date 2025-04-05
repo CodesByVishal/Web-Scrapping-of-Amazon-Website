@@ -20,7 +20,7 @@ This project provides a Python script to scrape laptop listings from Amazon Indi
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/amazon-laptop-scraper.git
+git clone https://github.com/CodesByVishal/amazon-laptop-scraper.git
 ```
 
 2. Install the required Python libraries:
