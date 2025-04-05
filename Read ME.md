@@ -147,10 +147,3 @@ The output will be a CSV file with the following columns:
 
 Feel free to fork this repository, make improvements, or submit pull requests. Ensure that your code adheres to the existing structure and includes necessary tests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
---- 
-
-Make sure to replace "your-username" with your GitHub username if needed. This README provides clear instructions on using your script and understanding its functionality.
